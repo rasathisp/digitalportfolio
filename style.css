@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+    background-color:Teal;
+    color: #fff;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    background-color:cyan;
+}
+
+nav li {
+    margin: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color:cyen;
+}
+
+section {
+    margin: 10px;
+    padding: 10px;
+    background-color:pink;
+}
+
+.project {
+    margin: 10px;
+    padding: 10px;
+    background-color:Aqua;
+    border: 1px solid;
+}
+
+.project img {
+    max-width: 100%;
+}
+
